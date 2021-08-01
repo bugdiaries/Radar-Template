@@ -48,5 +48,5 @@ ax.set_rlabel_position(180 / num_vars)
 # Change the background color inside the circle itself.
 ax.set_facecolor('#FAFAFA')
 
-#Show the Graph
-plt.show()
+#Save with Transparent Background For Tableau
+plt.savefig('Demo.png', transparent=True)
