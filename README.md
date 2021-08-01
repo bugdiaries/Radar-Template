@@ -5,3 +5,6 @@ This script will produce a blank iamge that you can save as a png and add to Tab
 
 To make your own Radar chart in Python, check the documentation out here 
 https://www.pythoncharts.com/matplotlib/radar-charts/
+
+Save as a Transparent background Png. Details found
+https://datascienceparichay.com/article/save-matplotlib-plot-with-transparent-background/
